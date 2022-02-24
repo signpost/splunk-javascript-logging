@@ -5,3 +5,4 @@ config.json
 test/config.json
 .idea
 docs
+.nyc_output/**
